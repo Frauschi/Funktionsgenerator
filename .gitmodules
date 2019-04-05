@@ -1,3 +1,0 @@
-[submodule "Software"]
-	path = Software
-	url = ssh://tobias@taugenbeck.de:24/volume1/git/waveformgenerator2.git

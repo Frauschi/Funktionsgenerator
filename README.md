@@ -18,7 +18,7 @@ im Rahmen einer Projektarbeit and der *Ostbayerischen Technischen Hochschule Reg
 - Signal-Phase -180° – +180°
 
 
-### Projektteilnehmer
+### Entwickler
 - Manuel Dentgen
 - Tobias Frauenschläger
 - Thomas Taugenbeck

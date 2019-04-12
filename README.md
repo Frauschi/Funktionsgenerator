@@ -8,21 +8,22 @@ Dieses Repository beinhaltet alle relevaten Dateien für den Bau eines Funktions
 im Rahmen einer Projektarbeit and der *Ostbayerischen Technischen Hochschule Regensburg* enstanden.
 
 
-#### Specs des Funktionsgenerators
+### Specs des Funktionsgenerators
 
-| Parameter |  Min   Typ   Max  | Auflösung | Einheit | 
-| :---      | :---: :---: :---: |   :---:   |  :---:  |
-| Signalform | Sinus, Recheck (einstellbarer Duty-Cycle), Dreieck, Sägezahn (ansteigend und abfallend) | | |
+- Signalformen: Sinus, Recheck (einstellbarer Duty-Cycle), Dreieck, Sägezahn (ansteigend und abfallend)
+- Frequenz: 1Hz – 10MHz
+- Ausgangsspannung: -10V – +10V 
+- Signal-Offset: -5V – +5V
+- Signal-Phase -180° – +180°
 
 
-
-#### Projektteilnehmer
+### Projektteilnehmer
 - Manuel Dentgen
 - Tobias Frauenschläger
 - Thomas Taugenbeck
 
 
-## Verzeichnisstruktur
+### Verzeichnisstruktur
 
 - `Bilder` 
 	

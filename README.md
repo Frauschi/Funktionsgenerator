@@ -10,6 +10,7 @@ im Rahmen einer Projektarbeit and der *Ostbayerischen Technischen Hochschule Reg
 
 ### Specs des Funktionsgenerators
 
+- Zwei unabhängige Ausgangskanäle
 - Signalformen: Sinus, Recheck (einstellbarer Duty-Cycle), Dreieck, Sägezahn (ansteigend und abfallend)
 - Frequenz: 1Hz – 10MHz
 - Ausgangsspannung: -10V – +10V 

@@ -3,7 +3,6 @@
 <img src="https://github.com/Frauschi/Funktionsgenerator/blob/master/Bilder/Ger%C3%A4t/Funktionsgenerator_fertig1.jpg" width="600">
 <img src="https://github.com/Frauschi/Funktionsgenerator/blob/master/Bilder/Signale/Sine_100kHz.png" width="600">
 
-
 Dieses Repository beinhaltet alle relevaten Dateien für den Bau eines Funktionsgenerators. Dieser ist
 im Rahmen einer Projektarbeit and der *Ostbayerischen Technischen Hochschule Regensburg* enstanden.
 
@@ -19,6 +18,7 @@ im Rahmen einer Projektarbeit and der *Ostbayerischen Technischen Hochschule Reg
 
 
 ### Entwickler
+
 - Manuel Dentgen
 - Tobias Frauenschläger
 - Thomas Taugenbeck
